@@ -124,9 +124,4 @@ History info of the sent mails
 User info 
 ### Team Name: Devs24
 
-### Team Members: 
-- Avik Ghatak
-- Ramyanil Raha
-- Kaustuv Kanchan Chattopadhyay
-- Ayush Pratap Singh
 
